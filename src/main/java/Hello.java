@@ -8,7 +8,6 @@ public class Hello {
 
         System.out.println("Ready to go  back to living room to watch a movie");
         //Let's finish the work on the movie
-//This movie is great. Who   selected it?
-        //Watching movie for 25 minutes
+
     }
 }
