@@ -10,6 +10,6 @@ public class Hello {
         //Let's finish the work on the movie
 //  movie on the  phone   10 minutes
         // movie on the phone 20 minutes
-
+//    watching on the phone before going back to living room tv
     }
 }
