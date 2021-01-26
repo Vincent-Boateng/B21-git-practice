@@ -3,5 +3,6 @@ public class Hello {
         System.out.println("Hello world");
         //added  some awesome test
         System.out.println("21 future SDET learning Git");
+        //Master is going to   create   a conflict here
     }
 }
