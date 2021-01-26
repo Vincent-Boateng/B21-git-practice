@@ -1,10 +1,13 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello world, 21");
         //added  some awesome test
         System.out.println("21 future SDET learning Git");
-        //Master is going to   create   a conflict here
 
-        System.out.println("Another tantrum from Master");
+        System.out.println("Watching  movies  doesn't  have to  create a conflict");
+
+        System.out.println("Ready to go  back to living room to watch a movie");
+        //Let's finish the work on the movie
+
     }
 }
